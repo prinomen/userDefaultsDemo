@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  spriteKitTestProject
-//
-//  Created by Japhet Martin on 1/10/18.
-//  Copyright © 2018 Japhet Martin. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain
